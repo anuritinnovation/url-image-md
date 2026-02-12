@@ -5,7 +5,7 @@ If you have questions, encounter issues, or wish to suggest new features for the
 
 ### Contact Information
 - **Developer:** Sunny Saurav
-- **Email:** sauravsunny05@gmail.com
+- **Email:** amrit@anuritinnovation.com
 - **Repository:** [GitHub Issues](https://github.com/anuritinnovation/url-image/issues)
 
 ## ❓ Frequently Asked Questions
